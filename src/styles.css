@@ -56,4 +56,12 @@ body {
     height: auto;
     margin-bottom: 15px;
   }
+  .container {
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   
