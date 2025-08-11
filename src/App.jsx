@@ -1,5 +1,7 @@
 import { useState } from "react";
 import "./styles.css";
+import logo from "./assets/logo.png"; // Import logo
+
 
 export default function App() {
   const [task, setTask] = useState("");
